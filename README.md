@@ -1,55 +1,52 @@
-# ChatMe - Voice and Video Calling WebApp
+# Video Calling WebApp
 
-<!-- <img src="https://github.com/user-attachments/assets/deab03fd-4234-44c3-a6ad-484c4a1a02a1" alt="Linkify Thubmnail"> -->
-<img src="https://github.com/user-attachments/assets/55b9afeb-89de-4e16-9437-683c5d970a6d" alt="Luro Thumbnail" style="border-radius: 12px;" width="1280">
+A real-time video calling web application built to connect users seamlessly over the internet. This project uses Next.js, ZEGOCLOUD, and Tailwind CSS to deliver high-quality audio and video communication directly in your browser.
 
+## 🚀 Features
 
-## 🌟 Introduction
-Let's build a realtime video calling webapp using Next.js 15 and ZEGOCLOUD
+- Real-time video and audio calls
+- Secure and private connections
+- Responsive design for desktop and mobile
+- Simple and intuitive user interface
 
-## 🎥 Watch Demo on YouTube
+## 🛠️ Technologies Used
 
-Check out the tutorial to see how this social media marketing platform was built: [Watch the Tutorial](https://youtu.be/Eb914F5748M?si=rZ-4og1KXchBIF8j) 💻 
+- [Next.js](https://nextjs.org/)
+- [ZEGOCLOUD](https://www.zegocloud.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-## 💻 Tech Stack
+## 📦 Getting Started
 
-* Next.js
-* ZEGOCLOUD
-* Tailwind CSS
-
-
-## 🛠️ Installation
-To run Luro locally, follow these steps:
-
-1. Clone the repository:
+1. **Clone the repository**
     ```bash
-    git clone https://github.com/Shreyas-29/zegocloud-nextjs.git
+    git clone https://github.com/Shanidhya01/VIDEO-CALLING.git
     ```
-2. Install dependencies:
+2. **Install dependencies**
     ```bash
     pnpm install
     ```
-3. Set up environment variables in a `.env` file:
+3. **Configure environment variables**  
+   Create a `.env` file in the root directory and add your ZEGOCLOUD credentials:
     ```
     NEXT_PUBLIC_ZEGOCLOUD_APP_ID=
     NEXT_PUBLIC_ZEGOCLOUD_SERVER_SECRET=
     ```
-
-4. Run the development server:
+4. **Run the development server**
     ```bash
     pnpm run dev
     ```
 
-## ☕ Buy Me a Coffee
-If you enjoy using Luro, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/shreyas29)
+## 👤 Author
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+**Shanidhya**  
+GitHub: [Shanidhya01](https://github.com/Shanidhya01)
 
-## 💬 Contact
-If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/Shreyas-29/zegocloud-nextjs/issues).
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 📬 Contact
+
+For questions or feedback, please open an issue on [GitHub Issues](https://github.com/Shanidhya01/VIDEO-CALLING/issues).
 
 ---
-
-Built with ❤️ by [Shreyas](https://shreyas-sihasane.vercel.app/)
